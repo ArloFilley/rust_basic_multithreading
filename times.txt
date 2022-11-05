@@ -1,0 +1,31 @@
+1 Thread
+real    1m5.719s
+user    1m5.336s
+
+2 Threads
+real    0m33.560s
+user    1m6.368s
+
+3 Threads
+real    0m23.482s
+user    1m8.887s
+
+4 Threads
+real    0m17.502s
+user    1m8.725s
+
+5 Threads
+real    0m16.333s
+user    1m19.811s
+
+6 Threads
+real    0m15.222s
+user    1m29.320s
+
+7 Threads
+real    0m14.317s
+user    1m37.459s
+
+8 Threads
+real    0m13.846s
+user    1m44.247s
