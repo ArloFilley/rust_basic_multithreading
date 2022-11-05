@@ -1,7 +1,9 @@
-use std::ops::Rem;
-use std::thread;
-use std::env;
-use std::thread::JoinHandle;
+use std::{
+    ops::Rem,
+    thread,
+    thread::JoinHandle,
+    env
+};
 
 fn main() {
     let x: u128 = env::args().nth(1).unwrap_or(20.to_string()).parse().unwrap();
